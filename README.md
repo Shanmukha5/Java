@@ -1,4 +1,4 @@
-# Java
+# Java Text Book -> Java - The Complete Reference, Herbert Schildt, Mcgraw Hill Education, 9th Edition, 2014, ISBN-10: 0071808558.
 The full course and some of programs with explanations found here.
 
 Some of the questions you can pratice and solutions are given above or you can google those.
